@@ -1,0 +1,98 @@
+<DOCTYPE! html>
+<head>
+	<meta>
+	<title>My Pinterest</title>
+	<link rel="stylesheet" href="css/css_of_index.css" type="text/css">
+	<link href="js/js_of_index.js" type="text/javascript">
+	<link href="js/waterfall.js" type="text/javascript">
+	<link href="js/opacity.js" type="text/javascript">
+</head>
+<style>
+	
+</style>
+<body>
+<div>
+
+<!----------------------------------------------顶部导航栏---------------------------------------------------->
+	
+	<div class="top">
+		<div class="topin">
+			<div class="topdetail"><font size="" color="">
+				<div class="topright">
+					<button class="topright_username" href="#">
+						<div class="topright_username_icon">
+							<img src="https://s-passets-cache-ak0.pinimg.com/images/user/default_30.png" style="width:22px;">
+						</div>
+						<span class="topright_username_text">UserName</span>
+					</button>
+					<button class="topright_menu" href="#">
+						<em class="topright_mune_icon">
+						</em>
+					</button>
+				</div>
+				<div class="topleft">
+					<a class="topleft_lefticon" href="">
+						<!--没图+1...--><em></em>
+					</a>
+					<button class="topleft_righticon">
+					</button>
+					<form class="topleft_search">
+						<input class="topleft_search_input" type="text" placeholder="Search" name="search"/>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<!------------------------------------------------------顶部导航栏结束---------------------------------------------------------------->
+
+<!-----------------------------------------------------------正文--------------------------------------------------------------------->
+	
+	<div class="main_container">
+		<div class="main_containerin">
+			<div id="container">
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+				<div class="box">
+					<div class="box_img"> 
+						<img src="https://s-media-cache-ak0.pinimg.com/736x/c3/a1/ff/c3a1ff49ec2797999b5fc5e7bdc97c7f.jpg">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
